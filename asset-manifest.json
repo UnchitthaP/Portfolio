@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.85294df4.css",
+    "main.js": "/Portfolio/static/js/main.e88ba756.js",
+    "static/media/girl.png": "/Portfolio/static/media/girl.fffc1e2bdcb123b85002.png",
+    "static/media/pet.jpg": "/Portfolio/static/media/pet.15aef5d5c807939a8ec7.jpg",
+    "static/media/coffee-apple.jpg": "/Portfolio/static/media/coffee-apple.a0c19713a15fff3f3cff.jpg",
+    "static/media/seven.jpg": "/Portfolio/static/media/seven.7de8d461118d2450f621.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.85294df4.css.map": "/Portfolio/static/css/main.85294df4.css.map",
+    "main.e88ba756.js.map": "/Portfolio/static/js/main.e88ba756.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85294df4.css",
+    "static/js/main.e88ba756.js"
+  ]
+}
